@@ -1,1 +1,1 @@
-this is my readme
+Module of **Basic Shell Scripts and Git** carried out during **Full Stack Software Engineering Training** at **[ALx](https://www.alxafrica.com/software/)** in collaboration with **[Holberton School](https://www.holbertonschool.com/)**.
